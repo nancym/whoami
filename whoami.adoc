@@ -26,7 +26,7 @@ Here are some of the things I've been evangelistic about:
 * Public communication tools and services that do not require you to give any https://en.wikipedia.org/wiki/Personally_identifiable_information[personally identifiable information (PII)], such as your real name or real birth date.
 * IMAP
 * Pine (**P**OP, **I**MAP, **N**NTP, & **E**SMTP client), which was renamed Alpine
-* Antirealismfootnote:[I was very interested in the realism/antirealism debate in philosophy of science, especially philosophy of physics. These issues are different, but also interesting to me, in philosphy of mathematics and philosophy of religion.] in academic philosophy
+* Antirealismfootnote:[From 1995-2005 I was really interested in the realism/antirealism debate in philosophy of science, especially philosophy of physics. Now I'm more interested in realism and antirealism in the context of philosphy of mathematics and philosophy of religion.] in academic philosophy
 * Privacy and security
 * https://en.wikipedia.org/wiki/AsciiDoc[AsciiDoc markup language], Git, and GitHub
 
@@ -37,7 +37,7 @@ the last two bullets are what I'm most into at the moment (2015).
 NOTE: I'm not evangelistic about everything I care about. For example, I've been lacto-ovo vegetarian for more than 30 years and I don't think I have ever suggested that someone else become vegetarian.
 
 I took a Myers-Briggs test on the internet and it said I had an https://en.wikipedia.org/wiki/ENFP[ENFP (Extraversion, Intuition, Feeling, Perception)] or 
-"`Inspirer`" personality type.footnote:[An ENFP is called a 
+"`Champion`" personality type.footnote:[An ENFP personality type is also called a 
 http://www.16personalities.com/enfp-personality[Campaigner],
 Champion,
 http://personalitypage.com/ENFP.html[Creative Idealist],
@@ -59,7 +59,6 @@ If a public internet place requires a real name, real birthday, or any https://e
 On planet earth, I'm a https://en.wikipedia.org/wiki/Digital_nomad[digital nomad] and have lived a lot of places.
 
 // need space below here
-&nbsp;
 &nbsp;
 
 == Footnotes
