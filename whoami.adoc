@@ -24,6 +24,7 @@ Here are some of the things I've been evangelistic about:
 * Usenet and NNTP
 * Free/Libre Open Source Software (FLOSS) and Open Standards
 * Public communication tools and services that do not require you to give any https://en.wikipedia.org/wiki/Personally_identifiable_information[personally identifiable information (PII)], such as your real name or real birth date.
+* Email filtering
 * IMAP
 * Pine (**P**OP, **I**MAP, **N**NTP, & **E**SMTP client), which was renamed Alpine
 * Antirealismfootnote:[From 1995-2005 I was really interested in the realism/antirealism debate in philosophy of science, especially philosophy of physics. Now I'm more interested in realism and antirealism in the context of philosphy of mathematics and philosophy of religion.] in academic philosophy
@@ -61,4 +62,4 @@ On planet earth, I'm a https://en.wikipedia.org/wiki/Digital_nomad[digital nomad
 // need space below here
 &nbsp;
 
-== Footnotes
+=== Footnotes
