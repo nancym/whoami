@@ -58,8 +58,8 @@ If a public internet place requires a real name, real birthday, or any https://e
 
 On planet earth, I'm a https://en.wikipedia.org/wiki/Digital_nomad[digital nomad] and have lived a lot of places.
 
-****
-sidebar test
-****
+// need space below here
+&nbsp;
+&nbsp;
 
-now outside sidebar
+== Footnotes
