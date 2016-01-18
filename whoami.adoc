@@ -28,18 +28,19 @@ Here are some of the things I've been evangelistic about:
 * Email filtering
 * https://en.m.wikipedia.org/wiki/Internet_Message_Access_Protocol[IMAP (Internet Message Access Protocol)]
 * https://en.m.wikipedia.org/wiki/Alpine_(email_client)[Pine (**P**OP, **I**MAP, **N**NTP, & **E**SMTP client)], which was renamed Alpine
-* https://en.m.wikipedia.org/wiki/Anti-realism[Antirealism]footnote:[From ~1995 - ~2005 I was really interested in the realism/antirealism debate in philosophy of physics. Now I'm more interested in realism and antirealism in the context of philosphy of mathematics and philosophy of religion.] in academic philosophy
+* https://en.m.wikipedia.org/wiki/Anti-realism[Antirealism]footnote:[From ~1995 to ~2005 I was really interested in the realism/antirealism debate in philosophy of physics. Now I'm more interested in realism and antirealism in the context of philosphy of mathematics and philosophy of religion.] in academic philosophy
 * Privacy and security
 * https://en.m.wikipedia.org/wiki/AsciiDoc[AsciiDoc markup language]
 * Git and GitHub
+* https://en.m.wikipedia.org/wiki/Car-free_movement[Car-free living]
 
 
 I'm still enthusiastic about most of the things on this list (but not Usenet :scream:), and
-the last three bullets are what I'm most into at the moment (2016).
+the last four bullets are what I'm most into at the moment (2016).
 
 NOTE: I'm not evangelistic about everything I care about. For example, I've been lacto-ovo vegetarian for more than 30 years and I don't think I've ever suggested that someone else become vegetarian.
 
-I took a Myers-Briggs test and it said I had an https://en.wikipedia.org/wiki/ENFP[ENFP (Extraversion, Intuition, Feeling, Perception)] or 
+I took a Myers-Briggs test and it said I had an https://en.m.wikipedia.org/wiki/ENFP[ENFP (Extraversion, Intuition, Feeling, Perception)] or 
 "`Champion`" personality type.footnote:[An ENFP personality type is also called a 
 http://www.16personalities.com/enfp-personality[Campaigner],
 Champion,
@@ -60,6 +61,7 @@ On the internet, I'm a lot of places, including:
 If a public internet space requires a real name, real birthday, or any https://en.m.wikipedia.org/wiki/Personally_identifiable_information[PII], you can be pretty sure I'm not there.
 
 On planet earth, I'm a https://en.m.wikipedia.org/wiki/Digital_nomad[digital nomad] and have lived a lot of places including Austin, London, New York City, Palo Alto, Paris, and Seattle. I'm thinking about moving back to NYC and I'd appreciate any tips about finding a place to live there. I think I want to live in Manhattan again, but I'm not sure.
+
 
 You can leave NYC thoughts, or any thoughts, on the https://github.com/nancym/whoami/issues[GitHub Issues page for this document].
 
