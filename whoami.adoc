@@ -2,7 +2,7 @@
 title:            whoami
 author:           ℵancym
 first published:  2015-11-10
-updated:          2015-11-10
+updated:          2016-01-18
 feedback:         https://github.com/nancym/whoami/issues
 ---
 
@@ -11,9 +11,9 @@ feedback:         https://github.com/nancym/whoami/issues
 
 First, I am a privacy nut so it's always hard for me to figure out what to publicly say about myself, but here goes.
 
-I am a nerd and the title of this page is a reference to the Unix https://en.wikipedia.org/wiki/Whoami[`whoami` command]. What kind of nerd am I? Mainly a mathematics nerd. I :purple_heart: :blue_heart: :green_heart:  :heart: math and teaching, and when I was young my goal was to teach math at a small liberal arts college. I achieved that goal and was shocked to discover that that wasn't really what I wanted to do. I shifted to technical writing, which seemed to me to be a way I could still teach nerdy things but not have to deal with the low pay and frustrationsfootnote:[My teaching frustrations were mainly related to grading.] of teaching. I still, many years later, think that my path is to teach nerdy things.
+I'm a nerd and the title of this page is a reference to the nerdy Unix https://en.m.wikipedia.org/wiki/Whoami[`whoami` command]. What kind of nerd am I? Mainly a mathematics nerd. I :purple_heart: :blue_heart: :green_heart:  :heart: math, and when I was young my goal was to teach math at a university. I achieved that goal and was shocked to discover that that wasn't really what I wanted to do. I shifted to technical writing, which seemed to be a way I could still learn and teach nerdy things but not have to deal with the low pay and frustrationsfootnote:[My teaching frustrations were mainly related to grading.] of teaching. Still, many years later, I think that my path is to teach nerdy things.
 
-Another part of me that may help you to understand what I do on the internet is that I am a natural born evangelist. When I'm enthusiastic about something I do what I can to get other people to join in. I do this because I think it will be good for:
+Another part of me that may help you to understand what I do on the internet is that I am a natural born evangelist. When I'm enthusiastic about something I do what I can to get you to join in. I do this because I think it will be good for:
 
 . you,
 . the world, and
@@ -23,19 +23,21 @@ Here are some of the things I've been evangelistic about:
 
 * Usenet and NNTP
 * Free/Libre Open Source Software (FLOSS) and Open Standards
-* Public communication tools and services that do not require you to give any https://en.wikipedia.org/wiki/Personally_identifiable_information[personally identifiable information (PII)], such as your real name or real birth date.
+* Asynchronous messaging, especially public standards-based asynchronous messaging
+* Communication tools and services that do not require you to give any https://en.m.wikipedia.org/wiki/Personally_identifiable_information[personally identifiable information (PII)], such as your real name, real birth date, or phone number.
 * Email filtering
-* IMAP
-* Pine (**P**OP, **I**MAP, **N**NTP, & **E**SMTP client), which was renamed Alpine
-* Antirealismfootnote:[From 1995-2005 I was really interested in the realism/antirealism debate in philosophy of science, especially philosophy of physics. Now I'm more interested in realism and antirealism in the context of philosphy of mathematics and philosophy of religion.] in academic philosophy
+* https://en.m.wikipedia.org/wiki/Internet_Message_Access_Protocol[IMAP (Internet Message Access Protocol)]
+* https://en.m.wikipedia.org/wiki/Alpine_(email_client)[Pine (**P**OP, **I**MAP, **N**NTP, & **E**SMTP client)], which was renamed Alpine
+* https://en.m.wikipedia.org/wiki/Anti-realism[Antirealism]footnote:[From ~1995 - ~2005 I was really interested in the realism/antirealism debate in philosophy of physics. Now I'm more interested in realism and antirealism in the context of philosphy of mathematics and philosophy of religion.] in academic philosophy
 * Privacy and security
-* https://en.wikipedia.org/wiki/AsciiDoc[AsciiDoc markup language], Git, and GitHub
+* https://en.m.wikipedia.org/wiki/AsciiDoc[AsciiDoc markup language]
+* Git and GitHub
 
 
 I'm still enthusiastic about most of the things on this list (but not Usenet :scream:), and
-the last two bullets are what I'm most into at the moment (2015).
+the last three bullets are what I'm most into at the moment (2016).
 
-NOTE: I'm not evangelistic about everything I care about. For example, I've been lacto-ovo vegetarian for more than 30 years and I don't think I have ever suggested that someone else become vegetarian.
+NOTE: I'm not evangelistic about everything I care about. For example, I've been lacto-ovo vegetarian for more than 30 years and I don't think I've ever suggested that someone else become vegetarian.
 
 I took a Myers-Briggs test and it said I had an https://en.wikipedia.org/wiki/ENFP[ENFP (Extraversion, Intuition, Feeling, Perception)] or 
 "`Champion`" personality type.footnote:[An ENFP personality type is also called a 
@@ -55,9 +57,11 @@ On the internet, I'm a lot of places, including:
 * http://deflexion.com (old, needs to be updated)
 * http://www.ii.com (really old, really needs to be updated)
 
-If a public internet place requires a real name, real birthday, or any https://en.wikipedia.org/wiki/Personally_identifiable_information[PII], you can be pretty sure I'm not there.
+If a public internet space requires a real name, real birthday, or any https://en.m.wikipedia.org/wiki/Personally_identifiable_information[PII], you can be pretty sure I'm not there.
 
-On planet earth, I'm a https://en.wikipedia.org/wiki/Digital_nomad[digital nomad] and have lived a lot of places.
+On planet earth, I'm a https://en.m.wikipedia.org/wiki/Digital_nomad[digital nomad] and have lived a lot of places including Austin, London, New York City, Palo Alto, Paris, and Seattle. I'm thinking about moving back to NYC and I'd appreciate any tips about finding a place to live there. I think I want to live in Manhattan again, but I'm not sure.
+
+You can leave NYC thoughts, or any thoughts, on the https://github.com/nancym/whoami/issues[GitHub Issues page for this document].
 
 // need space below here
 &nbsp;
